@@ -1,0 +1,28 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('/1000_F_442215355_AjiR6ogucq3vPzjFAAEfwbPXYGqYVAap.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
+  
+  .landing-page h1 {
+   
+    margin-bottom: 20px;
+  }
+  
+  .landing-page button {
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-color: rgb(0, 0, 0);
+    border: 4px solid;
+    color: rgb(83, 200, 83);
+
+  }
+  
